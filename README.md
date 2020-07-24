@@ -12,9 +12,12 @@ I'm originally from a small town in Mississippi, and I strive to do great things
 ## Contact Me :iphone:
 - [Email](loveishsarolia@gmail.com) :email:
 - [LinkedIn](https://www.linkedin.com/in/loveishsarolia/) :briefcase:
+<!-- 
+- [Website](loveishsarolia.com) :computer: 
+-->
 
 <!--
-If anyone ever sees this, credit for the visitor counter to https://github.com/sagar-viradiya/!
+If anyone ever sees this, credit for the visitor counter goes to https://github.com/sagar-viradiya/!
 -->
 
 
