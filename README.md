@@ -10,7 +10,7 @@ My name is Loveish Sarolia, and I am a rising sophomore at Virginia Tech pursuin
 I'm originally from a small town in Mississippi, and I strive to do great things while putting an emphasis on helping where I came from. I love to learn and work with all kinds of data to create accessible visualizations and aid in data decision-making processes. I enjoy being busy and applying my skills to a variety of projects to support the needs of the group or company I'm working with.
 
 ## Contact Me :iphone:
-- loveishsarolia@gmail.com :email:
+- [Email](mailto:loveishsarolia@gmail.com) :email:
 - [LinkedIn](https://www.linkedin.com/in/loveishsarolia/) :briefcase:
 <!-- 
 - [Website](loveishsarolia.com) :computer: 
