@@ -1,6 +1,5 @@
 # Hey! 👋
 
-## About Me :sunglasses:
 Hello World! I'm Loveish, a passionate data and AI enthusiast on a mission to make sense of the world through numbers and insights. As a dedicated AI Engineer and former Data Scientist, I thrive on transforming raw data into actionable solutions and unlocking the hidden stories within.
 
 With a keen eye for patterns and a knack for problem-solving, I bring a holistic approach to data, blending technical proficiency with a genuine desire to make a positive impact. Whether it's unraveling complex datasets, building predictive models, or crafting compelling data visualizations, I'm here to turn information into actionable knowledge.
